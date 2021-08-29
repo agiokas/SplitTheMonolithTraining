@@ -1,8 +1,3 @@
-// # Install Locally in your project.
-// npm install -D typescript
-// npm install -D ts-node
-// run with `npx ts-node main.ts`
-
 import { ModuleA } from "./ModuleA";
 import { ModuleB } from "./ModuleB";
 import { LocalizationModule } from "./Localizations";
